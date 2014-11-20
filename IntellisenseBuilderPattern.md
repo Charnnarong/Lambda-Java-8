@@ -444,7 +444,20 @@ public class Lenghty
 
 แพทเทิร์นนี้นอกจากจะตัดปัญหาเรื่องส่งค่าผิด แล้ว ยังทำให้อ่านง่าย เข้าใจง่าย ใช้ง่าย ปลอดภัย และใช้ Intellisense ได้อย่างเต็มประสิทธิภาพครับ
 
+1 เริ่มต้น 
+![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/1ibp.png "K")
 
+2 Intellisense แสดงแค่ method ที่ควรตั้งค่า
+![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/2ibp.png "O")
+
+3 เมททอดอื่นก็เหมือนกัน
+![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/3ibp.png "N")
+
+4 เมื่อถึง setter สุดท้ายแล้วจะทำการเซ๊ตอีก intellisense ก็ไม่แสดง
+![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/4ibp.png "E")
+
+5. สุดท้ายเรียก build เมื่อทุกค่าถูกเซ็ตเรียบร้อย
+![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/5ibp.png ":)")
 ```
 * หมายเหตุ Intellisense Builder Pattern นี้ผมต่อยอดเองจาก Builder Pattern คิดเองเออเอง อาจไม่สมบูรณ์ อาจมีข้อผิดพลาดที่ยังหาไม่พบ หรือพลาดตาไป ถือว่าเป็นการแชร์ความรู้ แต่ไม่ขอรับผิดชอบใดๆทั้งสิ้น :)  
 ```
