@@ -472,5 +472,7 @@ public class Lenghty
 ## Reference
 
 [http://en.wikipedia.org/wiki/Builder_pattern](http://en.wikipedia.org/wiki/Builder_pattern)
+
 [http://www.javaworld.com/article/2074938/core-java/too-many-parameters-in-java-methods-part-3-builder-pattern.html](http://www.javaworld.com/article/2074938/core-java/too-many-parameters-in-java-methods-part-3-builder-pattern.html)
+
 [http://stackoverflow.com/questions/2332158/can-we-define-an-interface-within-an-interface](http://stackoverflow.com/questions/2332158/can-we-define-an-interface-within-an-interface)
