@@ -460,7 +460,7 @@ public class Lenghty
 
 ![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/4ibp.png "E")
 
-5. สุดท้ายเรียก build เมื่อทุกค่าถูกเซ็ตเรียบร้อย
+5 สุดท้ายเรียก build เมื่อทุกค่าถูกเซ็ตเรียบร้อย
 
 ![alt text](https://github.com/Charnnarong/Lambda-Java-8/blob/Lambda/images/5ibp.png ":)")
 
