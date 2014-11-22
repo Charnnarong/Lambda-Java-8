@@ -5,4 +5,4 @@ Lambda-Java-8
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Charnnarong/lambda-java-8/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Charnnarong/lambda-java-8/trend.png)]()
